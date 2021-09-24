@@ -1,3 +1,5 @@
 - 👋 Hi, I’m @GyoHeonLee
 - 👀 I’m interested in ...Back End, Data Science
-- 🌱 I’m currently learning ...too.
+- 🌱 I’m currently learning same as above
+
+With Python, Java
