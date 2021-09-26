@@ -1,4 +1,4 @@
-Hi, I’m @GyoHeonLee
+<h1>GyoHeonLee</h1>
 I’m interested in ...Front End, Data Science
 I’m currently learning same as above
 
