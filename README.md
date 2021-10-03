@@ -2,7 +2,7 @@
 <h1>GyoHeonLee</h1>
 I’m interested in ...Front End, Data Science<br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpfdml0217@gmail.com&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GyoHeonLee&show_icons=true&theme=radical)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
