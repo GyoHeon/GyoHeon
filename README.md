@@ -5,9 +5,9 @@
 -->
 
 <h1>GyoHeonLee</h1>
-
-I’m interested in ...Front End, Data Science<br><br>
-
+<ul>
+  <li>I’m interested in ...Front End, Data Science<br><br>
+</ul>
 <h3>I'm work with</h3>
 
 <p align="center">
