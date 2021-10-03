@@ -2,15 +2,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GyoHeonLee&show_icons=true&theme=react)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyoHeonLee&layout=compact)]
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GyoHeonLee)]
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyoHeonLee&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=GyoHeonLee" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=GyoHeonLee&layout=compact" />
 </a>
 
 <h1>GyoHeonLee</h1>
