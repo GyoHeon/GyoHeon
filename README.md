@@ -9,11 +9,11 @@ I’m interested in ...Front End, Data Science<br><br>
 
 <h3>My top languages</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyoHeonLee&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyoHeonLee&layout=compact)
 
 <h3>My weekly  development breakdown</h3>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GyoHeonLee)](https://github.com/anuraghazra/github-readme-stats)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GyoHeonLee)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
