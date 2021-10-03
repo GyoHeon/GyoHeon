@@ -7,13 +7,7 @@
 <h1>GyoHeonLee</h1>
 I’m interested in ...Front End, Data Science<br><br>
 
-<h3>My top languages</h3>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyoHeonLee&layout=compact)
-
-<h3>My weekly  development breakdown</h3>
-
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GyoHeonLee)
+<h3>I'm work with</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -22,3 +16,12 @@ I’m interested in ...Front End, Data Science<br><br>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 </p>
+
+<h3>My top languages</h3>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyoHeonLee&layout=compact)
+
+<h3>My weekly development times</h3>
+
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GyoHeonLee)
+
