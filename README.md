@@ -4,6 +4,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GyoHeonLee&show_icons=true&theme=react)
 -->
 
+<h1>GyoHeonLee</h1>
+I’m interested in ...Front End, Data Science<br><br>
+
+My top languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyoHeonLee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyoHeonLee&layout=compact" />
 </a>
@@ -11,8 +17,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=GyoHeonLee&layout=compact" />
 </a>
 
-<h1>GyoHeonLee</h1>
-I’m interested in ...Front End, Data Science<br><br>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
