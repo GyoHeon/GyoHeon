@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6699FF&height=300&section=header&text=Developer%20Lee&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6699FF&height=200&section=header&text=Developer%20Lee&fontSize=90" />
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GyoHeonLee&show_icons=true&theme=react)
