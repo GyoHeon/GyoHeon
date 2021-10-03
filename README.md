@@ -25,5 +25,6 @@
 
 <h3>My weekly development times</h3>
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GyoHeonLee)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GyoHeonLee)](https://github.com/anuraghazra/github-readme-stats)
+
 
