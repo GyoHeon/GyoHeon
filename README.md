@@ -6,8 +6,6 @@
 
 <h1>GyoHeonLee</h1>
 
----
-
 <ul>
   <li>I’m interested in ...Front End, Data Science
   <li>I'm work for ...CSNS lab, University of Seoul
