@@ -4,6 +4,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GyoHeonLee&show_icons=true&theme=react)
 -->
 
+---
+
 <h1>GyoHeonLee</h1>
 <ul>
   <li>I’m interested in ...Front End, Data Science
@@ -21,6 +23,8 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
 </p>
+
+---
 
 <h3>My top languages</h3>
 
