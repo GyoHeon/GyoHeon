@@ -31,6 +31,6 @@
 
 <h3>My weekly development times</h3>
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GyoHeonLee)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GyoHeonLee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
