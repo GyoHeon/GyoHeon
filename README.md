@@ -29,7 +29,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyoHeonLee&layout=compact)
 
-<h3>My weekly development times</h3>
+<h3>My development times</h3>
 
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GyoHeonLee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
