@@ -27,7 +27,7 @@
 
 <h3>My top languages</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyoHeonLee&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyoHeonLee&layout=compact&theme=radical)
 
 <h3>My development times</h3>
 
