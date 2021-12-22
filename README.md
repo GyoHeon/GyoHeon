@@ -27,10 +27,10 @@
 
 <h3>My top languages</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyoHeonLee&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyoHeonLee&layout=compact&theme=gruvbox)
 
 <h3>My development times</h3>
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GyoHeonLee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GyoHeonLee&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
