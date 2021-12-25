@@ -30,6 +30,8 @@
 
 ---
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GyoHeonLee&show_icons=true&theme=gruvbox)
+
 <h3>My top languages</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyoHeonLee&layout=compact&theme=gruvbox)
