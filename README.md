@@ -30,6 +30,8 @@
 
 ---
 
+<h3>My github stats</h3>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GyoHeonLee&show_icons=true&theme=gruvbox)
 
 <h3>My top languages</h3>
