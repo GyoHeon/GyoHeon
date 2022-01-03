@@ -35,7 +35,7 @@
 </p>
 
 ---
-
+<p align="center">
 <h3>My github stats</h3>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GyoHeonLee&show_icons=true&theme=gruvbox)
@@ -47,5 +47,4 @@
 <h3>My development times</h3>
 
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GyoHeonLee&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
-
+</p>
