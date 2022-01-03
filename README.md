@@ -1,8 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6699FF&height=200&section=header&text=Developer%20Lee&fontSize=90" />
-
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GyoHeonLee&show_icons=true&theme=react)
--->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6699FF&height=200&section=header&text=Developer%20Lee&fontSize=90" />
+</p>
 
 <h1>GyoHeonLee</h1>
 
@@ -37,9 +35,8 @@
 ---
 
 <h3>My github stats</h3>
-<p align="center">
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GyoHeonLee&show_icons=true&theme=gruvbox)
-</p>
 
 <h3>My top languages</h3>
 
@@ -48,4 +45,3 @@
 <h3>My development times</h3>
 
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GyoHeonLee&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
