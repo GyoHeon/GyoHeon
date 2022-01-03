@@ -42,7 +42,7 @@
 
 <h3>My top languages</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyoHeonLee&layout=compact&hide=jupyter%20notebook&card_width=444&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyoHeonLee&layout=compact&hide=jupyter%20notebook&card_width=444&langs_count=10&theme=gruvbox)
 
 <h3>My development times</h3>
 
