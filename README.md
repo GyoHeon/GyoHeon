@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 </p>
 <p align="center">  
-  <img src="https://img.shields.io/badge/D3-F9A03C?style=flat-square&logo=D3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/D3-F9A03C?style=flat-square&logo=D3.js&logoColor=white"/>
 </p>
 <p align="center">  
   <img src="https://img.shields.io/badge/styled_components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
