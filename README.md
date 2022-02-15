@@ -22,8 +22,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux_saga-999999?style=flat-square&logo=Redux-saga&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Typescript-007acc?style=flat-square&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 </p>
 <p align="center">  
   <img src="https://img.shields.io/badge/D3-F9A03C?style=flat-square&logo=D3.js&logoColor=white"/>
@@ -31,6 +29,10 @@
 <p align="center">  
   <img src="https://img.shields.io/badge/styled_components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Typescript-007acc?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
