@@ -22,6 +22,9 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux_saga-999999?style=flat-square&logo=Redux-saga&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=React-Query&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=React-Router&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Recoil-CA4245?style=flat-square&logo=Recoil&logoColor=white"/>
 </p>
 <p align="center">  
   <img src="https://img.shields.io/badge/D3-F9A03C?style=flat-square&logo=D3.js&logoColor=white"/>
