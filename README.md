@@ -24,20 +24,15 @@
   <img src="https://img.shields.io/badge/Redux_saga-999999?style=flat-square&logo=Redux-saga&logoColor=white"/>
   <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=React-Query&logoColor=white"/>
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=React-Router&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Recoil-CA4245?style=flat-square&logo=Recoil&logoColor=white"/>
 </p>
 <p align="center">  
   <img src="https://img.shields.io/badge/D3-F9A03C?style=flat-square&logo=D3.js&logoColor=white"/>
-</p>
-<p align="center">  
   <img src="https://img.shields.io/badge/styled_components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Typescript-007acc?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 </p>
