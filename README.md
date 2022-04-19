@@ -6,7 +6,7 @@
 
 <ul>
   <li>I’m interested in ...Front End, Data Science
-  <li>I'm work for ...CSNS lab, University of Seoul
+  <li>I'm work for ...MUZLIVE
 </ul>
 
 <p align="center">
