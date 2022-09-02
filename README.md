@@ -16,6 +16,8 @@
 
 ---
 
+<h1>My Skills</h1>
+
 <h3>Frontend</h3>
 
 <p align="center">
@@ -26,8 +28,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=React-Query&logoColor=white"/>
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/styled_components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
 </p>
 <p align="center">
@@ -37,7 +37,24 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 </p>
 
-<h3>Data Analysis</h3>
+<h3>Tools</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+</p>
+
+<h2>I have used<h2>
+
+<h4>Frontend<h4>
+  
+<p align="center">
+  <img src="https://img.shields.io/badge/Redux_saga-999999?style=flat-square&logo=Redux-saga&logoColor=white"/>
+  <img src="https://img.shields.io/badge/D3-F9A03C?style=flat-square&logo=D3.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
+</p>
+  
+<h4>Data Analysis</h4>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -46,20 +63,6 @@
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/>
 </p>
 
-<h3>Tools</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-</p>
-
-<h3>have used<h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Redux_saga-999999?style=flat-square&logo=Redux-saga&logoColor=white"/>
-  <img src="https://img.shields.io/badge/D3-F9A03C?style=flat-square&logo=D3.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
-</p>
 ---
 
 <h3>My top languages</h3>
