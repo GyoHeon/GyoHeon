@@ -44,8 +44,11 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 </p>
 
+---
+
 <h2>I have used<h2>
-  
+
+
 <h4>Frontend<h4>
   
 <p align="center">
