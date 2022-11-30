@@ -55,6 +55,7 @@
   <img src="https://img.shields.io/badge/Redux_saga-999999?style=flat-square&logo=Redux-saga&logoColor=white"/>
   <img src="https://img.shields.io/badge/D3-F9A03C?style=flat-square&logo=D3.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=Tailwind_CSS&logoColor=white"/>
 </p>
   
 <h4>Data Analysis</h4>
