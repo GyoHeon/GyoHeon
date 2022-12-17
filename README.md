@@ -58,6 +58,12 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=Tailwind-CSS&logoColor=white"/>
 </p>
   
+<h4>Backend<h4>
+  
+<p align="center">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django-CSS&logoColor=white"/>
+</p>
+  
 <h4>Data Analysis</h4>
 
 <p align="center">
