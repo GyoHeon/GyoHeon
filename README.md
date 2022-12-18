@@ -61,7 +61,7 @@
 <h4>Backend<h4>
   
 <p align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django-CSS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django-CSS&logoColor=white"/>
 </p>
   
 <h4>Data Analysis</h4>
