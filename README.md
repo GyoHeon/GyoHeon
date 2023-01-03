@@ -41,8 +41,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon AWS-F05032?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@
 <h4>Backend<h4>
   
 <p align="center">
-  <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django-CSS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 </p>
   
 <h4>Data Analysis</h4>
