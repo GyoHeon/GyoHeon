@@ -5,7 +5,7 @@
 <h1>GyoHeonLee</h1>
 
 <ul>
-  <li>I’m interested in ...Front End, Data Science
+  <li>I’m interested in ...Front End
   <li>I'm work for ...MUZLIVE
 </ul>
 
