@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6699FF&height=200&section=header&text=Developer%20Lee&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6699FF&height=200&section=header&text=GyoHeon&fontSize=90" />
 </p>
 
-<h1>GyoHeonLee</h1>
+<h1>GyoHeon</h1>
 
 <ul>
   <li>I’m interested in ...Front End
