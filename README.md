@@ -5,8 +5,8 @@
 <h1>GyoHeon</h1>
 
 <ul>
-  <li>I’m interested in ...Front End
-  <li>I'm work for ...MUZLIVE
+  <li>I’m interested in ...Front End, Infra
+  <li>I'm work for ...Kyobo Book DT
 </ul>
 
 <p align="center">
