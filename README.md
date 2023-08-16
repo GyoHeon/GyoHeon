@@ -32,6 +32,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/styled_components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=Tailwind-CSS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Typescript-007acc?style=flat-square&logo=TypeScript&logoColor=white"/>
@@ -64,13 +65,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Redux_saga-999999?style=flat-square&logo=Redux-saga&logoColor=white"/>
   <img src="https://img.shields.io/badge/D3-F9A03C?style=flat-square&logo=D3.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
 </p>
   
 <h4>Backend<h4>
   
 <p align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 </p>
   
 <h4>Data Analysis</h4>
