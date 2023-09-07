@@ -1,18 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6699FF&height=200&section=header&text=GyoHeon&fontSize=90" />
-</p>
-
 <h1>GyoHeon</h1>
 
-<ul>
-  <li>I’m interested in ...Front End, Infra
-  <li>I'm work for ...Kyobo Book DT
-</ul>
-
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGyoHeonLee&count_bg=%234BB7D3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/>
-  </a>
-</p>
 
 ---
 
@@ -79,6 +66,13 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/>
+</p>
+
+---
+
+<p align="end">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGyoHeonLee&count_bg=%234BB7D3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/>
+  </a>
 </p>
 
 ---
