@@ -33,7 +33,7 @@
 ---
 <h3>My development times</h3>
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GyoHeon&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GyoHeon&layout=compact&theme=gruvbox&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
