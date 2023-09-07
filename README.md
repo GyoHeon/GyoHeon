@@ -1,9 +1,8 @@
-<h1>GyoHeon</h1>
-
+<h2>GyoHeon</h2>
 
 ---
 
-<h2>My Skills</h2>
+<h3>🛠️ Tech Skills</h3>
 
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
@@ -24,12 +23,13 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 </p>
 
----
+<h3>🍄 Career</h3>
+
+<h3>🚄 Activities</h3>
+
 <h3>My development times</h3>
 
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GyoHeon&layout=compact&theme=gruvbox&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 <p align="end">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGyoHeonLee&count_bg=%234BB7D3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/>
