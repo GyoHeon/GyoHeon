@@ -2,6 +2,9 @@
 
 <a href="https://www.gyoheon.com/">
   <img src="https://img.shields.io/badge/Blog-4DBC15?style=flat-square&logo=Houzz&logoColor=white" />
+</a>
+<a href="https://www.gyoheon.com/resume">
+  <img src="https://img.shields.io/badge/RESUME-018EF5?style=flat-square&logo=readme&logoColor=white" />
 </a> 
 
 <h3>🛠️ Tech Skills</h3>
