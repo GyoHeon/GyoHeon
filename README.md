@@ -1,6 +1,8 @@
 <h2>GyoHeon</h2>
 
----
+<a href="https://www.gyoheon.com/">
+  <img src="https://img.shields.io/badge/Blog-4DBC15?style=flat-square&logo=Houzz&logoColor=white" />
+</a> 
 
 <h3>🛠️ Tech Skills</h3>
 
@@ -28,7 +30,7 @@
 <h3>🍄 Career</h3>
 
 * 교보문고 | 프론트엔드 (2023.07 ~)
-* 뮤즈라이브 | 프론트엔드 (2022.04 ~ 2023.07)
+* [뮤즈라이브](https://kitbetter.com/community/kr/discover) | 프론트엔드 (2022.04 ~ 2023.07)
 
 <h3>🚄 Activities</h3>
 
