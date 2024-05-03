@@ -41,8 +41,9 @@
 
 <h3>🚄 Activities</h3>
 
+* [데스크룸](https://www.deskroom.so) | 프론트엔드 (2024.04 ~ )
 * [뭉클](https://www.moonkl.com) | 프론트엔드 (2023.04 ~ 2023.12)
-* 패스트캠퍼스 | 프론트엔드 과정 멘토 (2022.10 ~)
+* 패스트캠퍼스 | 프론트엔드 과정 멘토 (2022.10 ~ )
 
 <h3>⏰ My development times</h3>
 
