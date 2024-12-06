@@ -34,7 +34,7 @@
   </li>
 </ul>
 
-<h3>🍄 Career</h3>
+<h3>🍄 Careers</h3>
 
 * [데스크룸](https://www.deskroom.so) | Software Engineer (2024.06 ~ )
 * 교보문고 | 프론트엔드 (2023.07 ~ 2024.06)
