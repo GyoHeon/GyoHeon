@@ -31,7 +31,7 @@
 
 * [데스크룸](https://www.deskroom.so) | Software Engineer (2024.06 ~ )
 * 교보문고 | 프론트엔드 (2023.07 ~ 2024.06)
-* [뮤즈라이브](https://kitbetter.com/community/kr/discover) | 프론트엔드 (2022.04 ~ 2023.07)
+* [뮤즈라이브](https://kitbetter.com) | 프론트엔드 (2022.04 ~ 2023.07)
 
 <h3>🚄 Activities</h3>
 
