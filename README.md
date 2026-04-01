@@ -30,14 +30,10 @@
 <h3>🍄 Careers</h3>
 
 * [데스크룸](https://www.deskroom.so) | Software Engineer (2024.06 ~ )
-* 교보문고 | 프론트엔드 (2023.07 ~ 2024.06)
+* [교보문고](https://www.kyobobook.co.kr) | 프론트엔드 (2023.07 ~ 2024.06)
 * [뮤즈라이브](https://kitbetter.com) | 프론트엔드 (2022.04 ~ 2023.07)
 
 <h3>🚄 Activities</h3>
 
 * 뭉클 | 프론트엔드 (2023.04 ~ 2023.12)
 * 패스트캠퍼스 | 프론트엔드 과정 멘토 (2022.10 ~ 2023.10)
-
-<h3>⏰ My development times</h3>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GyoHeon&layout=compact&theme=gruvbox&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
